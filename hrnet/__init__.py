@@ -1,0 +1,1 @@
+from .hrnet import hrnet_v2, hrnet18_v2, hrnet32_v2, hrnet48_v2
